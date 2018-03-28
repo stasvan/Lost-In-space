@@ -1,0 +1,16 @@
+Maxim :200
+IVAN:1400
+KEK:200
+POP:800
+LLL:200
+Петрович :26600
+Алешка:1200
+Player:100
+VAno:1300
+Player:11900
+PC:1800
+Igor:3800
+POOL:600
+POOLMM:100
+fdPlayer:600
+PlayerЛШЩТу:3000

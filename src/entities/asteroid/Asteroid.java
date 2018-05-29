@@ -28,7 +28,6 @@ public class Asteroid extends AsteroidSprite {
         this.damage = damage;
     }
 
-    @Override
     public String toString() {
         return "Asteroid{" + "score=" + score +
                 ", damage=" + damage +

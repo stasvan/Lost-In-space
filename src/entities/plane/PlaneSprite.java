@@ -33,7 +33,6 @@ public class PlaneSprite implements Sprite {
     }
 
     // 60 times in sec
-    @Override
     public void render(Graphics2D graphics2D) {
         if (texture != null) {
             graphics2D.drawImage(texture.cut(0, 0, WIDTH, HEIGHT), x, y, null);
@@ -75,17 +74,17 @@ public class PlaneSprite implements Sprite {
 
 
 
-    @Override
+
     public int getWidth() {
         return WIDTH;
     }
 
-    @Override
+
     public int getHeight() {
         return HEIGHT;
     }
 
-    @Override
+
     public void erase() {
         this.texture = null;
     }

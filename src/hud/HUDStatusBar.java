@@ -27,7 +27,6 @@ public class HUDStatusBar implements Sprite{
     }
 
 
-    @Override
     public void render(Graphics2D graphics2D) {
         // render health bar
         graphics2D.setColor(Color.RED);
@@ -61,27 +60,22 @@ public class HUDStatusBar implements Sprite{
 
     }
 
-    @Override
     public int getX() {
         return 0;
     }
 
-    @Override
     public int getY() {
         return 0;
     }
 
-    @Override
     public int getWidth() {
         return 0;
     }
 
-    @Override
     public int getHeight() {
         return 0;
     }
 
-    @Override
     public void erase() {
     }
 

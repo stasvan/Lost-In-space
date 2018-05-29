@@ -26,7 +26,7 @@ public class BulletSprite implements Sprite {
     }
 
 
-    @Override
+
     public void render(Graphics2D graphics2D) {
         y -= velY;
         if (texture != null) {
@@ -61,7 +61,7 @@ public class BulletSprite implements Sprite {
         return WIDTH;
     }
 
-    @Override
+
     public void erase() {
         this.texture = null;
     }

@@ -32,7 +32,7 @@ public class AsteroidSprite implements Sprite {
     }
 
     // 60 times in sec
-    @Override
+
     public void render(Graphics2D graphics2D) {
         y += velY;
         if (texture != null) {
@@ -61,7 +61,7 @@ public class AsteroidSprite implements Sprite {
         this.velY = YVelocity;
     }
 
-    @Override
+
     public int getHeight() {
         return HEIGHT;
     }
@@ -70,7 +70,7 @@ public class AsteroidSprite implements Sprite {
         return WIDTH;
     }
 
-    @Override
+
     public void erase() {
         this.texture = null;
     }

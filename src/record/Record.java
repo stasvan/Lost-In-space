@@ -26,7 +26,6 @@ public class Record {
         this.score = score;
     }
 
-    @Override
     public String toString() {
         return name + " " + score;
     }

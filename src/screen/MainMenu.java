@@ -63,13 +63,13 @@ public class MainMenu implements GameMenu{
 
     }
 
-    @Override
+
     public void firstButtonClick() {
         context.clearGameArea();
         context.setGameState(GameState.IN_GAME);
     }
 
-    @Override
+
     public void secondButtonClick() {
 
         // find all records

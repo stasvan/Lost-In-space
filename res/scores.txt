@@ -14,3 +14,4 @@ POOL:600
 POOLMM:100
 fdPlayer:600
 PlayerЛШЩТу:3000
+Player:12300

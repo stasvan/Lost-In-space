@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed2669-8585-4393-bc87-c276d8e105a2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scores.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c7ed2669-8585-4393-bc87-c276d8e105a2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,8 +98,8 @@
       <file leaf-file-name="Constants.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/constants/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="255">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -189,108 +186,6 @@
             <path>
               <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collision" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-              <item name="asteroid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-              <item name="plane" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="screen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sprite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LostInSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LostInSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -440,12 +335,12 @@
       <workItem from="1526219675838" duration="277000" />
       <workItem from="1526227442242" duration="105000" />
       <workItem from="1527593979813" duration="22000" />
-      <workItem from="1527781720306" duration="1487000" />
+      <workItem from="1527781720306" duration="1799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32009000" />
+    <option name="totallyTimeSpent" value="32321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="205" y="63" width="1136" height="788" extended-state="0" />
@@ -459,7 +354,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18361153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18361153" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -827,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/constants/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="255">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>

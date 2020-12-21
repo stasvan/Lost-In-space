@@ -1,2 +1,2 @@
 # Lost-In-space
-Java Arcade game (Сourse project)
+Java Arcade game
